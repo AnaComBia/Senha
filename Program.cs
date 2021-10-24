@@ -8,7 +8,7 @@ namespace Senha
         {
             Console.WriteLine("\n---Senha---\n");
 
-            Console.Write("Digite a senha do usuário: ");
+            Console.Write("\nDigite a senha do usuário: ");
             String senha = Console.ReadLine();
 
             if (senha == "123abc")
